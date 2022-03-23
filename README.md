@@ -6,7 +6,8 @@ My name is Giovanni Salazar and welcome to my page! I graduated from the Univers
 ## Skills: 
 Java / C / C# / C / Ruby / Kotlin / XML / SQL
 
-### 📫 How to reach me: Salazar.E.Giovanni@gmail.com 
+### 📫 How to reach me: 
+Salazar.E.Giovanni@gmail.com 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/gsalaz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/linkedin.com/in/giovanni-salazar-57842b22b/)  
